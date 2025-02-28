@@ -1,0 +1,49 @@
+.navbar{
+    /* navbar is just the box of all nav items */
+    border: 2px solid #faf6f6;
+    text-align: center;
+    background-color: blue;
+    height: 270px;
+    padding-top: 20px;
+    
+
+
+}
+
+ a:link{
+    color: beige;
+}
+a:visited{
+    color: blueviolet;
+}
+a:hover{
+    color: rgb(199, 44, 191);
+}
+a:active{
+    color: rgb(5, 31, 87);
+}
+.nav-item{
+    width: 100px;
+    height: 20px; 
+    line-height: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 10px;
+    background-color: #057ada;
+    text: bolder;
+    text-decoration: none;
+    text-align: center;
+
+    
+   
+   
+}
+*{
+    background-color: rgb(30, 119, 219);
+}
+p{
+    color: rgba(204, 11, 11, 0.815);
+}
+h1{
+    color: rgb(145, 53, 53);
+}
